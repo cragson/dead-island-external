@@ -1,0 +1,3 @@
+[submodule "dead-island-external/osmium"]
+	path = dead-island-external/osmium
+	url = https://github.com/cragson/osmium
